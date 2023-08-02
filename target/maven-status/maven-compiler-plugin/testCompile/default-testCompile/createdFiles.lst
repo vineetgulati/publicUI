@@ -1,0 +1,9 @@
+test\UIAutomationDemo\Utils\Waits.class
+test\UIAutomationDemo\demo1\FormFill.class
+test\UIAutomationDemo\Utils\FileUtils.class
+test\UIAutomationDemo\Utils\Listeners.class
+test\UIAutomationDemo\Utils\JavaExecutor.class
+test\UIAutomationDemo\Utils\ConfigReader.class
+test\UIAutomationDemo\FormData\FormData1.class
+test\UIAutomationDemo\Utils\DriverFactory.class
+test\UIAutomationDemo\Utils\Screenshots.class
